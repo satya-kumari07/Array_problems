@@ -4,7 +4,7 @@ using namespace std;
 int main ()  
 {  
     int arr[50], num, temp, i, j;  
-    cout << " Please, enter the total no. you want to enter: ";  
+    cout << " enter the size of array: ";  
     cin >> num;  
       
     // use for loop to enter the numbers   
